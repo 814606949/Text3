@@ -1,0 +1,8 @@
+diverClass=com.mysql.jdbc.Driver
+url=jdbc:mysql://localhost:3306/db01?useUnicode=true&characterEncoding=utf-8
+user=root
+password=0206
+initpoolsize=20
+minpoolsize=20
+maxpoolsize=50
+acquireIncrement=10
